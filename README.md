@@ -23,7 +23,6 @@ Esta aplicación web permite registrar y visualizar las calorías consumidas med
 ```bash
 npm install      # Instala todas las dependencias
 npm run dev      # Inicia el servidor de desarrollo
-npm start        # Inicia en modo producción
 npm run build    # Genera la build de producción
 ```
 
